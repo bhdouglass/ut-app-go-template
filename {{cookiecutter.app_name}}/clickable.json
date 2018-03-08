@@ -1,0 +1,4 @@
+{
+  "template": "go",
+  "kill": "{{cookiecutter.app_name}}"
+}
