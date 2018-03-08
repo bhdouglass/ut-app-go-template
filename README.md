@@ -6,7 +6,7 @@ and uses [clickable](http://clickable.bhdouglass.com/en/latest/) to compile it.
 ## Usage
 
 To get started with this template, simply run `clickable init` and choose the
-'Go App' option.
+'Go/QML App' option.
 
 ### OR
 
